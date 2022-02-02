@@ -84,7 +84,7 @@
             <label class="visually-hidden" for="modalSignupHorizontalCompanyName">
                 Company Name
             </label>
-            <input wire:model="company" type="text" class="form-control" id="modalSignupHorizontalCompanyName"
+            <input wire:model="company" type="text" class="form-control-sm" id="modalSignupHorizontalCompanyName"
                 placeholder="Company name">
         </div>
 
@@ -101,7 +101,7 @@
             <label class="visually-hidden" for="modalSignupHorizontalEmail">
                 Your email
             </label>
-            <input wire:model="email" type="email" class="form-control" id="" placeholder="Your email *">
+            <input wire:model="email" type="email" class="form-control-sm" id="" placeholder="Your email *">
         </div>
 
         <!-- Submit -->
