@@ -1,4 +1,4 @@
-
+<x-layout>
 
     <!-- WELCOME -->
     <section data-jarallax data-speed=".8" class="py-10 py-md-14 overlay overlay-black overlay-40 bg-cover jarallax" style="background-image: url(https://i.postimg.cc/pVZ4jQnt/Harbor-Air-Elec.jpg);">
@@ -1400,5 +1400,5 @@
         }
       }
     </script>
-  </body>
-</html>
+
+</x-layout>
