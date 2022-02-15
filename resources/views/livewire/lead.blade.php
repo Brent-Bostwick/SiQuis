@@ -93,7 +93,7 @@
             <label class="visually-hidden" for="modalSignupHorizontalUserName">
                 Your Name
             </label>
-            <input wire:model="name" type="text" class="form-control" id="" placeholder="Your name *">
+            <input wire:model="name" type="text" class="form-control-sm" id="" placeholder="Your name *">
         </div>
 
         <!-- Email -->
@@ -105,7 +105,7 @@
         </div>
 
         <!-- Submit -->
-        <button class="btn btn-xs w-100 btn-info" type="submit">
+        <button class="btn btn-sm btn-info" style="width: 261px;" type="submit">
             Sign up
         </button>
 
