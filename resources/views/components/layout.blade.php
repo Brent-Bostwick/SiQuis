@@ -59,7 +59,7 @@
             while (testV < 3) {
                 if (!pass1)
                     history.go(-1);
-                if (pass1.toLowerCase() == "november2021") {
+                if (pass1.toLowerCase() == "february2022") {
                     window.open('./SiQuis-BusPlan_HOME.html');
                     break;
                 }
