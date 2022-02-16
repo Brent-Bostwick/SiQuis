@@ -26,4 +26,6 @@ Route::view('/management', 'management');
 Route::view('/operations', 'operations');
 Route::view('/themes', 'themes');
 Route::view('/passion-economy', 'passion_economy');
-Route::view('/business-plan', 'business_plan');
+Route::view('/SiQuis_Deck_020222', 'SiQuis_Deck_020222');
+Route::view('/SiQuis_Exec_020222', 'SiQuis_Exec_020222');
+Route::view('/SiQuis-BusPlan_HOME', 'SiQuis-BusPlan_HOME');
